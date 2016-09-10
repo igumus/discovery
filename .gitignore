@@ -1,0 +1,7 @@
+*~
+*.beam
+.eunit
+deps
+priv
+*.o
+*.plt
